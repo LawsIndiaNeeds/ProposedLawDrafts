@@ -1,0 +1,6 @@
+This is the initial draft of the proposed law to ensure all the Lok Sabha MPs 
+are assigned an official Twitter handle like @PMOIndia for Office of 
+the Prime Minister of India.
+
+Suggested format of Twitter Handle: @Mp_ConstituencyName 
+e.g. @Mp_NewDelhi, @Mp_Chandigarh
